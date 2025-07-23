@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.h5
+
+# Env
+.venv/
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
